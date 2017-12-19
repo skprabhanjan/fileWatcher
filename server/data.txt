@@ -1,0 +1,15 @@
+/Users/prabhanjansk/uspPrograms/. 1494991918
+/Users/prabhanjansk/uspPrograms/.. 1513692237
+/Users/prabhanjansk/uspPrograms/.DS_Store 1513708258
+/Users/prabhanjansk/uspPrograms/a.out 1492661603
+/Users/prabhanjansk/uspPrograms/backup 1492404908
+/Users/prabhanjansk/uspPrograms/childParent.c 1513708230
+/Users/prabhanjansk/uspPrograms/files.c 1492661536
+/Users/prabhanjansk/uspPrograms/multiple.c 1492363175
+/Users/prabhanjansk/uspPrograms/process.c 1492363124
+/Users/prabhanjansk/uspPrograms/test 1492361099
+/Users/prabhanjansk/uspPrograms/usp 1492361213
+/Users/prabhanjansk/uspPrograms/waitsignal1 1492349012
+/Users/prabhanjansk/uspPrograms/waitsignal1.c 1492363131
+/Users/prabhanjansk/uspPrograms/waitsignal2 1492349017
+/Users/prabhanjansk/uspPrograms/waitsignal2.c 1492363134
