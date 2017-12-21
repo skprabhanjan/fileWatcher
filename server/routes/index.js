@@ -2,6 +2,7 @@ var express = require('express');
 var router = express.Router();
 const fs = require('fs');
 
+
 /* GET home page. */
 router.get('/', function(req, res, next) {
   res.render('index', { title: 'Express' });
@@ -11,7 +12,7 @@ router.get('/', function(req, res, next) {
 
 router.get('/connect',function(req,res,next){
     var client_address = req.query.client_address;
-fs.writeFile("./client.txt", client_address, function (err) {
+fs.writeFile("./mvc_watcher/client.txt", client_address, function (err) {
     if (err) {
       return console.log(err);
     }

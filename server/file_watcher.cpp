@@ -168,6 +168,4 @@ int main(){
         traverseFS(path,first_time);
         first_time = 0;
     }
-	
-
 }
